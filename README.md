@@ -17,6 +17,7 @@
 | **Vishay TSAL6400** | 2 | 5mm 940nm THT Infrared LEDs (High power) | **C13717** |
 | **Active Buzzer** | 1 | 12x9.5mm, RM7.6 | **C46430** |
 | **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part) |
+| **LiPo Battery** | 1 | 3.7V 800mAh, Size: 802540 (8x25x40mm) | JST 1.25/2.0 connector |
 
 ### Mechanical & Assembly
 | Item | Qty | Specification | Purpose |
