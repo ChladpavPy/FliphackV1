@@ -6,7 +6,7 @@
 
 | Component | Qty | Description | LCSC Part # / Note |
 | :--- | :---: | :--- | :--- |
-| **ESP32-S3-WROOM-1U** | 1 | MCU (16MB Flash, 8MB PSRAM, U.FL connector) | N16R8 Version |
+| **ESP32-S3-WROOM-1U** | 1 | MCU (16MB Flash, 8MB PSRAM, U.FL connector) | N16R8 Version - included in JLCPCB assembly |
 | **1.69" SPI Display** | 1 | LCD with ST7789 driver (240x280px) | SPI Interface https://a.aliexpress.com/_EwHjYqY| 
 | **CC1101 Module** | 1 | Sub-GHz RF module (with SMA antenna) | E07-M1101D https://a.aliexpress.com/_Ey9DMVW |
 | **nRF24L01+PA+LNA Module** | 1 | 2.4GHz RF module (Mouse Hijacking) | https://a.aliexpress.com/_Ew8TYLa  |
@@ -15,7 +15,7 @@
 | **MicroSD Card Module** | 1 | For offline data logging | https://a.aliexpress.com/_EHdpg1A |
 | **TSOP4838** | 1 | 38kHz Infrared Receiver | https://a.aliexpress.com/_EzLWQ5W |
 | **Vishay TSAL6400** | 2 | 5mm 940nm THT Infrared LEDs (High power)|https://a.aliexpress.com/_EIPCbXW| | **Passive Piezzo Buzzer** | 1 | 12x9.5mm, RM7.6 OR smaller diameter, just make sure that the pins diameter is ok, otherwise you would have to add more solder
-| **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part) |
+| **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part - included in JLCPCB assembly) |
 | **LiPo Battery** | 1 | 3.7V 800mAh, Size: 802540 (8x25x40mm) |https://a.aliexpress.com/_EQnfApW |
 
 ### Mechanical & Assembly
