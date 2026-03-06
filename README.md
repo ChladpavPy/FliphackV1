@@ -10,7 +10,7 @@
 | **1.69" SPI Display** | 1 | LCD with ST7789 driver (240x280px) | SPI Interface https://a.aliexpress.com/_EwHjYqY| 
 | **CC1101 Module** | 1 | Sub-GHz RF module (with SMA antenna) | E07-M1101D |
 | **nRF24L01+PA+LNA Module** | 1 | 2.4GHz RF module (Mouse Hijacking) | SMA Version |
-| **PN532 Module** | 1 | NFC/RFID 13.56MHz module |https://a.aliexpress.com/_ExXcsbE  |
+| **PN532 Module** | 1 | NFC/RFID 13.56MHz module |  |
 | **Neo-8M GPS Module** | 1 | GPS module with ceramic patch antenna | UART Interface |
 | **MicroSD Card Module** | 1 | For offline data logging | SPI Interface |
 | **TSOP4838** | 1 | 38kHz Infrared Receiver | **C145271** |
