@@ -16,9 +16,7 @@
 | **TSOP4838** | 1 | 38kHz Infrared Receiver | https://a.aliexpress.com/_EzLWQ5W |
 | **Vishay TSAL6400** | 2 | 5mm 940nm THT Infrared LEDs (High power)|https://a.aliexpress.com/_EIPCbXW| | **Passive Piezzo Buzzer** | 1 | 12x9.5mm, RM7.6 OR smaller diameter, just make sure that the pins diameter is ok, otherwise you would have to add more solder
 | **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part) |
-| **LiPo Battery** | 1 | 3.7V 800mAh, Size: 802540 (8x25x40mm) | I just found this on AliExpress: 
-3.7V 800mAh 802540 Li Polymer Lithium Battery for Beauty Instrument Bluetooth Headset Toy Handheld Fans Rechargeable Batteries
- https://a.aliexpress.com/_EQnfApW |
+| **LiPo Battery** | 1 | 3.7V 800mAh, Size: 802540 (8x25x40mm) |https://a.aliexpress.com/_EQnfApW |
 
 ### Mechanical & Assembly
 | Item | Qty | Specification | Purpose |
