@@ -9,7 +9,7 @@
 | **ESP32-S3-WROOM-1U** | 1 | MCU (16MB Flash, 8MB PSRAM, U.FL connector) | N16R8 Version |
 | **1.69" SPI Display** | 1 | LCD with ST7789 driver (240x280px) | SPI Interface https://a.aliexpress.com/_EwHjYqY| 
 | **CC1101 Module** | 1 | Sub-GHz RF module (with SMA antenna) | E07-M1101D |
-| **nRF24L01+PA+LNA Module** | 1 | 2.4GHz RF module (Mouse Hijacking) | SMA Version |
+| **nRF24L01+PA+LNA Module** | 1 | 2.4GHz RF module (Mouse Hijacking) | https://a.aliexpress.com/_Ew8TYLa  |
 | **PN532 Module** | 1 | NFC/RFID 13.56MHz module | https://a.aliexpress.com/_ExXcsbE |
 | **Neo-8M GPS Module** | 1 | GPS module with ceramic patch antenna | UART Interface |
 | **MicroSD Card Module** | 1 | For offline data logging | SPI Interface |
