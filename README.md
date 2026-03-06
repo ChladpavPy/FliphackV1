@@ -15,7 +15,7 @@
 | **MicroSD Card Module** | 1 | For offline data logging | SPI Interface |
 | **TSOP4838** | 1 | 38kHz Infrared Receiver | **C145271** |
 | **Vishay TSAL6400** | 2 | 5mm 940nm THT Infrared LEDs (High power) 
-| **Passive Buzzer** | 1 | 12x9.5mm, RM7.6 OR smaller diameter, just make sure that the pins diameter is ok, otherwise you would have to solder it more
+| **Passive Piezzo Buzzer** | 1 | 12x9.5mm, RM7.6 OR smaller diameter, just make sure that the pins diameter is ok, otherwise you would have to solder it more
 | **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part) |
 | **LiPo Battery** | 1 | 3.7V 800mAh, Size: 802540 (8x25x40mm) | JST 1.25/2.0 connector |
 
