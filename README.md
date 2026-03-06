@@ -11,9 +11,9 @@
 | **CC1101 Module** | 1 | Sub-GHz RF module (with SMA antenna) | E07-M1101D |
 | **nRF24L01+PA+LNA Module** | 1 | 2.4GHz RF module (Mouse Hijacking) | SMA Version |
 | **PN532 Module** | 1 | NFC/RFID 13.56MHz module | Mini Board |
-| **Neo-6M GPS Module** | 1 | GPS module with ceramic patch antenna | UART Interface |
+| **Neo-8M GPS Module** | 1 | GPS module with ceramic patch antenna | UART Interface |
 | **MicroSD Card Module** | 1 | For offline data logging | SPI Interface |
-| **TSOP38438** | 1 | 38kHz Infrared Receiver | **C145271** |
+| **TSOP4838** | 1 | 38kHz Infrared Receiver | **C145271** |
 | **Vishay TSAL6400** | 2 | 5mm 940nm THT Infrared LEDs (High power) 
 | **Active Buzzer** | 1 | 12x9.5mm, RM7.6 
 | **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part) |
