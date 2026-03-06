@@ -13,7 +13,7 @@
 | **PN532 Module** | 1 | NFC/RFID 13.56MHz module | https://a.aliexpress.com/_ExXcsbE |
 | **Neo-8M GPS Module** | 1 | GPS module with ceramic patch antenna | https://a.aliexpress.com/_EvsK2kc |
 | **MicroSD Card Module** | 1 | For offline data logging | https://a.aliexpress.com/_EHdpg1A |
-| **TSOP4838** | 1 | 38kHz Infrared Receiver | **C145271** |
+| **TSOP4838** | 1 | 38kHz Infrared Receiver | https://a.aliexpress.com/_EzLWQ5W |
 | **Vishay TSAL6400** | 2 | 5mm 940nm THT Infrared LEDs (High power) 
 | **Passive Piezzo Buzzer** | 1 | 12x9.5mm, RM7.6 OR smaller diameter, just make sure that the pins diameter is ok, otherwise you would have to add more solder
 | **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part) |
