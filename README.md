@@ -18,7 +18,7 @@
 | **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part) |
 | **LiPo Battery** | 1 | 3.7V 800mAh, Size: 802540 (8x25x40mm) | I just found this on AliExpress: 
 3.7V 800mAh 802540 Li Polymer Lithium Battery for Beauty Instrument Bluetooth Headset Toy Handheld Fans Rechargeable Batteries
-https://a.aliexpress.com/_EQnfApW |
+ https://a.aliexpress.com/_EQnfApW |
 
 ### Mechanical & Assembly
 | Item | Qty | Specification | Purpose |
