@@ -3,6 +3,10 @@
 
 ### Assembly Preview
 ![Assembly Preview](Images/fliphackV1_2026-Mar-04_05-12-26PM-000_CustomizedView14729308224_png.png)
+
+![Assembly Preview](Images/fliphackV1_2026-Mar-04_04-23-11PM-000_CustomizedView2779335344_png.png)
+
+![Assembly Preview](Images/fliphackV1_2026-Mar-04_03-54-21PM-000_CustomizedView15652668379_png.png)
 ---
 
 ## Bill of Materials (BOM)
