@@ -1,4 +1,6 @@
-# FliphackV1
+# Fliphack V1
+
+A custom, pocket-sized hardware multitool inspired by the Flipper Zero. Built to learn custom PCB design and integrate specific modules like GPS and long-range RF. Designed entirely from scratch in KiCad and Fusion 360.
 
 
 ### Assembly Preview
