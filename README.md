@@ -64,7 +64,7 @@ A custom, pocket sized hardware multitool inspired by the Flipper Zero. Built to
 | Component | Qty | Description | LCSC Part # / Note |
 | :--- | :---: | :--- | :--- |
 | **ESP32-S3-WROOM-1U** | 1 | MCU (16MB Flash, 8MB PSRAM, U.FL connector) | N16R8 Version - included in JLCPCB assembly |
-| **1.69" SPI Display** | 1 | LCD with ST7789 driver (240x280px) | SPI Interface https://a.aliexpress.com/_EwHjYqY| 
+| **1.69" SPI Display** | 1 | LCD with ST7789 driver (240x280px) | SPI Interface https://a.aliexpress.com/_EIgOvRA| 
 | **CC1101 Module** | 1 | Sub-GHz RF module (with SMA antenna) | E07-M1101D https://a.aliexpress.com/_Ey9DMVW |
 | **nRF24L01+PA+LNA Module** | 1 | 2.4GHz RF module (Mouse Hijacking) | https://a.aliexpress.com/_Ew8TYLa  |
 | **PN532 Module** | 1 | NFC/RFID 13.56MHz module | https://a.aliexpress.com/_ExXcsbE |
