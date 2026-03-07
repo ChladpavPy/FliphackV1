@@ -9,7 +9,7 @@ A custom, pocket sized hardware multitool inspired by the Flipper Zero. Built to
 * **Wireless and RF:** Sub-GHz (CC1101), 2.4GHz (nRF24L01+PA+LNA), NFC/RFID (PN532), and also external WIFI antena
 * **Navigation:** GPS (NEO-8M)
 * **Storage:** MicroSD Card module for SD card
-* **Infrared:** High-power IR Transmitter (Vishay TSAL6400) & 38kHz IR Receiver
+* **Infrared:** High-power IR Transmitter (Vishay TSAL6400) and 38kHz IR Receiver
 * **Controls:** 5-way navigation switch + SMT tactile buttons for BOOT and RST
 * **Power:** External battery - 3.7V 800mAh, Size: 802540 (8x25x40mm) and USB C interface
 * **Case:** Custom 3D modeled thick enclosure with snap-fit parts and M3 inserts
