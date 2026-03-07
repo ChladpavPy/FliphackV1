@@ -18,7 +18,7 @@
 ![Assembly Preview](Images/FliphackV1.0_2026-Mar-01_08-28-51AM-000_CustomizedView27564047952_png.png)
 
 ### 3D PCB Render
-![PCB 3D](Images/Snímek obrazovky 2026-03-04 182400.png)
+![PCB 3D](Images/pcb_3d_models7.png)
 
 
 ---
