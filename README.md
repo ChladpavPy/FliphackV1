@@ -1,7 +1,20 @@
 # Fliphack V1
 
-A custom, pocket-sized hardware multitool inspired by the Flipper Zero. Built to learn custom PCB design and integrate specific modules like GPS and long-range RF. Designed entirely from scratch in KiCad and Fusion 360.
+A custom, pocket sized hardware multitool inspired by the Flipper Zero. Built to learn custom PCB design and integrate specific modules like GPS and long-range RF, including also the other Filpper Zero modules. Designed entirely from scratch in KiCad and Fusion 360.
 
+## Project Features
+
+* **Microcontroller:** ESP32-S3 WROOM 1U (16MB Flash, 8MB PSRAM) with external wifi antena
+* **Display:** 1.69" IPS TFT LCD (ST7789 SPI)
+* **Wireless and RF:** Sub-GHz (CC1101), 2.4GHz (nRF24L01+PA+LNA), NFC/RFID (PN532), and also external WIFI antena
+* **Navigation:** GPS (NEO-8M)
+* **Storage:** MicroSD Card module for SD card
+* **Infrared:** High-power IR Transmitter (Vishay TSAL6400) & 38kHz IR Receiver
+* **Controls:** 5-way navigation switch + SMT tactile buttons for BOOT and RST
+* **Power:** External battery - 3.7V 800mAh, Size: 802540 (8x25x40mm) and USB C interface
+* **Case:** Custom 3D modeled thick enclosure with snap-fit parts and M3 inserts
+
+## Gallery
 
 ### Assembly Preview
 ![Assembly Preview](Images/fliphackV1_2026-Mar-04_05-12-26PM-000_CustomizedView14729308224_png.png)
