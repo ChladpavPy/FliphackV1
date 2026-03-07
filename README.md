@@ -37,6 +37,11 @@
 ### PCB Routing
 ![PCB 2D](Images/FliphackV1_PCB_1.png)
 
+
+
+### Schematic
+![Schematic](Images/fliphacksch.png)
+
 ---
 
 ## Bill of Materials (BOM)
