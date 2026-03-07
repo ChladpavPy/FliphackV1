@@ -9,6 +9,18 @@
 ![Assembly Preview](Images/fliphackV1_2026-Mar-04_03-54-21PM-000_CustomizedView15652668379_png.png)
 
 ![Assembly Preview](Images/fliphackV1_2026-Mar-04_03-52-59PM-000_CustomizedView9097932766_png.png)
+
+
+![Assembly Preview](Images/FliphackV1.0_2026-Mar-01_10-32-34AM-000_CustomizedView37283082153_png.png)
+
+![Assembly Preview](Images/FliphackV1.0_2026-Mar-01_10-07-14AM-000_CustomizedView19997977187_png.png)
+
+![Assembly Preview](Images/FliphackV1.0_2026-Mar-01_08-28-51AM-000_CustomizedView27564047952_png.png)
+
+### 3D PCB Render
+![PCB 3D](Images/Snímek obrazovky 2026-03-04 182400.png)
+
+
 ---
 
 ## Bill of Materials (BOM)
