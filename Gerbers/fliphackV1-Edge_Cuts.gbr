@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
+%TF.CreationDate,2026-03-07T07:56:27+01:00*%
+%TF.ProjectId,fliphackV1,666c6970-6861-4636-9b56-312e6b696361,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2026-03-07 07:56:27*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X140500000Y-76000000D02*
+X193500000Y-76000000D01*
+X193500000Y-152000000D01*
+X140500000Y-152000000D01*
+X140500000Y-76000000D01*
+M02*
