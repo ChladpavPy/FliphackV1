@@ -37,8 +37,6 @@ A custom, pocket sized hardware multitool inspired by the Flipper Zero. Built to
 
 ![PCB 3D](Images/pcb3d7.png)
 
-![PCB 3D](Images/pcb_3d_models7.png)
-
 ![PCB 3D](Images/pcb3d3.png)
 
 ![PCB 3D](Images/pcb3d4.png)
@@ -50,7 +48,7 @@ A custom, pocket sized hardware multitool inspired by the Flipper Zero. Built to
 ![PCB 3D](Images/pcb3d1.png)
 
 ### PCB Routing
-![PCB 2D](Images/FliphackV1_PCB_1.png)
+![PCB 2D](Images/pcb)
 
 
 
