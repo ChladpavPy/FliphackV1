@@ -68,7 +68,7 @@ A custom, pocket sized hardware multitool inspired by the Flipper Zero. Built to
 | **PN532 Module** | 1 | NFC/RFID 13.56MHz module | https://a.aliexpress.com/_ExXcsbE |
 | **Neo-8M GPS Module** | 1 | GPS module with ceramic patch antenna | https://a.aliexpress.com/_EvsK2kc |
 | **MicroSD Card Module** | 1 | For offline data logging | https://a.aliexpress.com/_EHdpg1A |
-| **TSOP4838** | 1 | 38kHz Infrared Receiver | https://a.aliexpress.com/_EzLWQ5W |
+| **TSOP4838** | 10 | 38kHz Infrared Receiver | https://a.aliexpress.com/_EzLWQ5W |
 | **Vishay TSAL6400** | 2 | 5mm 940nm THT Infrared LEDs (High power)|https://a.aliexpress.com/_EIPCbXW| | **Passive Piezzo Buzzer** | 1 | 12x9.5mm, RM7.6 OR smaller diameter, just make sure that the pins diameter is ok, otherwise you would have to add more solder
 | **Passive Piezzo Buzzer** | 1 | diameter size 12 * 9.5 or smaller |https://a.aliexpress.com/_ExtD1xe|
 | **TS-1187A Buttons** | 5 | SMT Tactile Switches (3x6mm footprint) | **C318884** (Basic Part - included in JLCPCB assembly) |
