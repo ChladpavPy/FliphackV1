@@ -512,7 +512,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/Gerbers/",
+      "plot": "Gerbers/",
       "pos_files": "Gerbers/",
       "specctra_dsn": "",
       "step": "fliphackV1.step",

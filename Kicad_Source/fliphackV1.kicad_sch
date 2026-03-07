@@ -7591,24 +7591,24 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 7.62 0)
+			(property "Reference" "SW1"
+				(at 0 11.43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "SW_SP5T_NR01105"
-				(at 0 -7.62 0)
+			(property "Value" "Button_Switch_SMD:SW-SMD-6P-L10.5-W10.0_C2858290"
+				(at 0 8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "Button_Switch_THT:SW_NKK_NR01"
-				(at 0 -10.16 0)
+			(property "Footprint" "Button_Switch_SMD:SW-SMD-6P-L10.5-W10.0_C2858290"
+				(at 0.508 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -7616,7 +7616,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.nkkswitches.com/pdf/NR01%20Rotaries.pdf"
+			(property "Datasheet" ""
 				(at 0 -12.7 0)
 				(effects
 					(font
@@ -7625,13 +7625,30 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "NKK Switches NR01 Series rotary SP5T switch"
-				(at 0 0 0)
+			(property "Description" "Button_Switch_SMD:SW-SMD-6P-L10.5-W10.0_C2858290"
+				(at 0.508 -16.51 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 					(hide yes)
+				)
+			)
+			(property "MNF PART NUMBER" "C2858290"
+				(at -0.508 -10.414 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2858290"
+				(at -0.508 -8.382 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 				)
 			)
 			(property "ki_keywords" "NR01 SP5T Switch"
@@ -7875,25 +7892,7 @@
 							)
 						)
 					)
-					(number "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -5.08 0)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8959,12 +8958,6 @@
 		(uuid "b757d5d8-a06b-4ce2-937b-05e8df35dd25")
 	)
 	(junction
-		(at 83.82 187.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb46c212-8703-4e25-b0f2-e984171425fd")
-	)
-	(junction
 		(at 162.56 257.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9896,7 +9889,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 187.96) (xy 83.82 187.96)
+			(xy 78.74 185.42) (xy 83.82 185.42)
 		)
 		(stroke
 			(width 0)
@@ -10533,16 +10526,6 @@
 			(type solid)
 		)
 		(uuid "913ffce9-23b5-47d0-ae38-31e23ab34aa4")
-	)
-	(wire
-		(pts
-			(xy 83.82 187.96) (xy 83.82 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9152eb1f-4339-48d9-9787-848b0b1a7572")
 	)
 	(wire
 		(pts
@@ -11686,16 +11669,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 185.42) (xy 83.82 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff36e2c1-b11c-4436-a9f9-508721de4c03")
-	)
-	(wire
-		(pts
 			(xy 152.4 247.65) (xy 162.56 247.65)
 		)
 		(stroke
@@ -11745,16 +11718,6 @@
 		(uuid "062e9379-51b3-42cd-a871-0e6b0c993b14")
 	)
 	(label "JOY_OK"
-		(at 205.74 158.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "090d0c96-472e-4628-8c99-0d4729dc5843")
-	)
-	(label "JOY_OK"
 		(at 104.14 190.5 0)
 		(effects
 			(font
@@ -11773,6 +11736,16 @@
 			(justify left bottom)
 		)
 		(uuid "111c8f96-0ec2-4775-8568-e50ad572c09c")
+	)
+	(label "JOY_OK"
+		(at 256.54 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "11774274-6028-4932-a61d-0cd7cf56fa4f")
 	)
 	(label "I2C_SDA"
 		(at 68.58 99.06 0)
@@ -11843,16 +11816,6 @@
 			(justify left bottom)
 		)
 		(uuid "23a8a874-1566-4261-be16-81664c65c209")
-	)
-	(label "JOY_L"
-		(at 256.54 153.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "26dd8c2c-79a3-40e9-975b-d795881050f2")
 	)
 	(label "TFT_CS"
 		(at 205.74 171.45 0)
@@ -12004,16 +11967,6 @@
 		)
 		(uuid "5db54126-b169-4954-b10f-04b6699844a8")
 	)
-	(label "JOY_R"
-		(at 256.54 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "607ee7c7-e1e1-48d8-9848-d0aff4ac34fa")
-	)
 	(label "CC_GD02"
 		(at 118.11 157.48 0)
 		(effects
@@ -12023,6 +11976,16 @@
 			(justify left bottom)
 		)
 		(uuid "6304c3c2-038c-4fd6-8c8d-14de78260d5e")
+	)
+	(label "JOY_R"
+		(at 256.54 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "635fa67d-b5d3-4756-bf8b-002b1d2baf2a")
 	)
 	(label "USB_D+"
 		(at 82.55 231.14 180)
@@ -12184,16 +12147,6 @@
 		)
 		(uuid "9b9b42d3-6625-4f02-ba61-73e63ef255ff")
 	)
-	(label "JOY_DOWN"
-		(at 256.54 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9c84d852-2842-46fd-be1d-77f3a5831c63")
-	)
 	(label "5V"
 		(at 212.09 264.16 0)
 		(effects
@@ -12293,6 +12246,26 @@
 			(justify left bottom)
 		)
 		(uuid "d0372e8e-9a76-4a24-9b48-3d7c60b50345")
+	)
+	(label "JOY_L"
+		(at 256.54 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d4f43dac-8309-4a2c-bd73-93633c4ccd7d")
+	)
+	(label "JOY_DOWN"
+		(at 205.74 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e606af78-58d6-4509-9692-0ec43d723919")
 	)
 	(label "SD_CS"
 		(at 256.54 171.45 0)
@@ -14884,7 +14857,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SP5T_NR01105"
+		(property "Value" "Button_Switch_SMD:SW-SMD-6P-L10.5-W10.0_C2858290"
 			(at 91.44 176.53 0)
 			(effects
 				(font
@@ -14892,8 +14865,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_NR01"
-			(at 91.44 195.58 0)
+		(property "Footprint" "Button_Switch_SMD:SW-SMD-6P-L10.5-W10.0_C2858290"
+			(at 91.948 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14901,7 +14874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.nkkswitches.com/pdf/NR01%20Rotaries.pdf"
+		(property "Datasheet" ""
 			(at 91.44 198.12 0)
 			(effects
 				(font
@@ -14910,8 +14883,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "NKK Switches NR01 Series rotary SP5T switch"
-			(at 91.44 185.42 0)
+		(property "Description" "Button_Switch_SMD:SW-SMD-6P-L10.5-W10.0_C2858290"
+			(at 91.948 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14919,8 +14892,8 @@
 				(hide yes)
 			)
 		)
-		(property "MNF PART NUMBER" "C2858286"
-			(at 91.44 194.056 0)
+		(property "MNF PART NUMBER" "C2858290"
+			(at 90.932 195.834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14928,7 +14901,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2858286"
+		(property "LCSC" "C2858290"
 			(at 90.932 193.802 0)
 			(effects
 				(font
@@ -14945,13 +14918,10 @@
 		(pin "5"
 			(uuid "f3e11c66-3e18-4927-9362-41bd767939ad")
 		)
-		(pin "C"
-			(uuid "b38a91aa-0596-46ba-bc0c-711984aff718")
-		)
 		(pin "4"
 			(uuid "2116c3c8-4347-4538-9d0e-48d3c7f112e6")
 		)
-		(pin "MP"
+		(pin "6"
 			(uuid "3f905c0f-0233-4cdc-8333-c3f5b5b646c0")
 		)
 		(pin "3"
@@ -18149,7 +18119,7 @@
 	(symbol
 		(lib_name "GND_2")
 		(lib_id "power:GND")
-		(at 78.74 187.96 270)
+		(at 78.74 185.42 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18158,7 +18128,7 @@
 		(fields_autoplaced yes)
 		(uuid "8eb4ac7f-40f7-4d6b-9be9-66ee4fdd0f3e")
 		(property "Reference" "#PWR06"
-			(at 72.39 187.96 0)
+			(at 72.39 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18167,7 +18137,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 74.93 187.9599 90)
+			(at 74.93 185.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18176,7 +18146,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 187.96 0)
+			(at 78.74 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18185,7 +18155,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 187.96 0)
+			(at 78.74 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18194,7 +18164,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 187.96 0)
+			(at 78.74 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19855,7 +19825,7 @@
 				)
 			)
 		)
-		(property "Value" "NEO-6M GPS Module"
+		(property "Value" "NEO-8M GPS Module"
 			(at 55.118 70.866 0)
 			(effects
 				(font
