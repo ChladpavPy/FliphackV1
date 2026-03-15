@@ -1,5 +1,4 @@
 "Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","MNF PART NUMBER","LCSC"
-"+3V3","1","+3V3","","","","TestPoint:TestPoint_Pad_D1.0mm","~","",""
 "BZ1","1","Buzzer","","","","Buzzer_Beeper:Buzzer_12x9.5RM7.6","~","",""
 "C1,C2,C6,C7,C8,C9,C11,C12,C13,C20,C36","11","10uF","","","","Capacitor_SMD:C_0402_1005Metric","~","C15525","C15525"
 "C3,C4,C10","3","100nF","","","","Capacitor_SMD:C_0402_1005Metric","~","C1525","C1525"
@@ -9,7 +8,6 @@
 "D4","1","SS14","","","","Diode_SMD:D_SMA","https://www.vishay.com/docs/88746/ss12.pdf","C2480","C2480"
 "D7,D8","2","IR LED","","","","LED_THT:LED_D5.0mm","~","",""
 "Flash1","1","Flash","","","","Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A","~","C318884","C318884"
-"GND1","1","GND","","","","TestPoint:TestPoint_Pad_D1.0mm","~","",""
 "J1","1","USB_C_Receptacle_USB2.0_14P","","","","Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","C19274016","C19274016"
 "J2","1","Conn_01x02_Pin","","","","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical","~","",""
 "J4","1","J_NRF24","","","","Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical","~","",""
