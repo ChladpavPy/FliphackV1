@@ -61,7 +61,7 @@ A custom, pocket sized hardware multitool inspired by the Flipper Zero. Built to
 
 | Component | Qty | Description | LCSC Part # / Note |
 | :--- | :---: | :--- | :--- |
-| **ESP32-S3-WROOM-1U** | 5 | MCU (16MB Flash, 8MB PSRAM, U.FL connector) | N16R8 Version - This is a problem, I wanted to ship it assembled with the pcb from jlcpcb, but unfortunately it must be ordered with standard pcb, that means that the price would rise from approximately 33 USD to crazy over 100 USD - So my plan is to order it from LCSC.com and ship it with the LCSC parts in the same box, because they support it, I think -  https://www.lcsc.com/product-detail/C3013946.html?s_z=n_esp32-s3-wroom-1u |
+| **ESP32-S3-WROOM-1U** | 5 | MCU (16MB Flash, 8MB PSRAM, U.FL connector) | N16R8 Version - This is a problem, I wanted to ship it assembled with the pcb from jlcpcb, but unfortunately it must be ordered with standard pcb, that means that the price would rise from approximately 33 USD to crazy over 100 USD - So my plan is to order it from LCSC.com and ship it with the LCSC parts in the same box, because they support it, I think -  https://www.lcsc.com/product-detail/C3013946.html?s_z=n_esp32-s3-wroom-1u / or there is the LSCS part number - C3013946|
 | **2.4GHz Antenna** + Pigtail | 1 |3dBi WiFi Antenna with 17cm U.FL IPX to SMA cable	Essential for ESP32-S3-1U -| https://a.aliexpress.com/_EItoDMg | 
 | **1.69" SPI Display** | 1 | LCD with ST7789 driver (240x280px) | SPI Interface https://a.aliexpress.com/_EIgOvRA| 
 | **CC1101 Module** | 1 | Sub-GHz RF module (with SMA antenna) | E07-M1101D https://a.aliexpress.com/_Ey9DMVW |
