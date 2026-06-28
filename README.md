@@ -23,6 +23,8 @@ A custom, pocket sized hardware multitool inspired by the Flipper Zero. Built to
 
 ![Build Preview](Images/build3.png)
 
+![Build Preview](Images/build8.png)
+
 ### Assembly Preview
 ![Assembly Preview](Images/fliphackV1_2026-Mar-04_05-12-26PM-000_CustomizedView14729308224_png.png)
 
